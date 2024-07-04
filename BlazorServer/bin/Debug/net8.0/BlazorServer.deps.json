@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BlazorServer/1.0.0": {
+        "dependencies": {
+          "ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "BlazorServer.dll": {}
+        }
+      },
+      "ViewModel/1.0.0": {
+        "runtime": {
+          "ViewModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

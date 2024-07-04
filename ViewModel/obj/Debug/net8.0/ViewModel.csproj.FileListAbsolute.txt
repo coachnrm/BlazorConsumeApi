@@ -1,0 +1,11 @@
+/Users/home/Desktop/BlazorServer/ViewModel/bin/Debug/net8.0/ViewModel.deps.json
+/Users/home/Desktop/BlazorServer/ViewModel/bin/Debug/net8.0/ViewModel.dll
+/Users/home/Desktop/BlazorServer/ViewModel/bin/Debug/net8.0/ViewModel.pdb
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.AssemblyInfoInputs.cache
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.AssemblyInfo.cs
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.csproj.CoreCompileInputs.cache
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.dll
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/refint/ViewModel.dll
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ViewModel.pdb
+/Users/home/Desktop/BlazorServer/ViewModel/obj/Debug/net8.0/ref/ViewModel.dll
